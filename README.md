@@ -5,7 +5,7 @@ This project involves synchronizing YouTube video subtitles with the video playb
 - Frontend: Javascript
 - Backend: Python
 - Framworks: Django, Next.js
-- API: FASTAPI, YoutubeAPI
+- API: FASTAPI, YouTubeTranscriptApi
 
 # Backend setup
 ```bash
