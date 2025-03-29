@@ -1,5 +1,8 @@
 import { Html, Head, Main, NextScript } from "next/document";
 
+/*
+    Document 
+*/
 
 export default function Document() {
   return (
